@@ -1,5 +1,5 @@
 
-const Discord = require("discord.js"); 
+const Discord = require("https://discord.gg/FY9gyqZ9"); 
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
@@ -106,9 +106,9 @@ const jano100 = new Discord.Client();
 ////////////////////////////////////////////// bas id voice dane 
 
 ///////////////////
-jano.on("ready", () => {
-    var join = jano.channels.get(""); /// id voice
-    if (join) join.join();
+jano.on("ready", ($) => {
+    var join = jano.channels.get("863805070415888444"); /// id voice
+    if (join) join.join($);
   });
 ///////////////////
 jano2.on("ready", () => {
@@ -534,12 +534,12 @@ jano99.on("ready", () => {
 
 /////////////////////
 jano100.on("ready", () => {
-    var join = jano100.channels.get(""); /// id voice
-    if (join) join.join();
+    var join = jano100.channels.get("863805053957308486"); /// id voice
+    if (join) join.join(https://discord.gg/FY9gyqZ9);
   });
 //////// playing or dnd  streaming ////////
 
-jano.on("ready", () => {
+jano.on("ready", (https://discord.gg/FY9gyqZ9) => {
   console.log(
     `Online In Servers`
   );
@@ -2439,7 +2439,7 @@ jano99.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano100.on("ready", () => {
+jano100.on("ready", (https://discord.gg/FY9gyqZ9) => {
   console.log(
     `Online In Servers`
   );
@@ -2448,7 +2448,7 @@ jano100.on("ready", () => {
   `I rely on God that's why no one can destroy him`,
 
   ];
-  setInterval(function() {
+  setInterval(function(https://discord.gg/FY9gyqZ9) {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     jano100.user.setActivity(STREAMING, {      
     type: "playing", 
@@ -2461,7 +2461,7 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
+jano.login("ODY0MTM0NTEzOTUyODE3MTgz.YOx0uQ.Wfu005ypoxnO1dy0bGErwIRVEdk");
 jano2.login("");
 jano3.login("");
 jano4.login("");
